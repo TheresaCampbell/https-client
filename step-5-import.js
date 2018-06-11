@@ -1,4 +1,4 @@
-var getHTML = require("./http-functions");
+var getHTML = require("./step-5-export");
 
 function printHTML (html) {
   console.log(html);
